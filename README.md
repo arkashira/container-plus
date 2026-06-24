@@ -1,5 +1,2 @@
-# Networking
-A Python project for configuring advanced networking settings.
-
-## Installation
-To install the project, run the following command:
+# Secret Manager
+A simple secret management system with encryption and access control.
